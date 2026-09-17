@@ -132,7 +132,7 @@ Pooled, the rate is **6.08 per 10,000 words in 2015-2022 and 12.19 in 2024-2025*
 | embark | 7.7 | 5.3 | 5.0 | 0.7× |
 | seamless | 1.0 | 0.9 | 0.3 | 0.3× |
 
-Eight of the eleven words rose, most of them by a factor of two or more, and none of the eight had already risen in 2022. *Robust* stayed flat, while *embark* and *seamless* fell (Figure 2). The rise is therefore concentrated in ceremonial intensifiers and stock metaphors (*unwavering, steadfast, a testament to, at a crossroads*) rather than spread evenly across every word a model might use.
+Eight of the eleven words rose, most of them by a factor of two or more, and all eight passed the rule that screens out words already rising before ChatGPT. *Robust* stayed flat, while *embark* and *seamless* fell (Figure 2). The rise is therefore concentrated in ceremonial intensifiers and stock metaphors (*unwavering, steadfast, a testament to, at a crossroads*) rather than spread evenly across every word a model might use.
 
 ![Figure 2. Ratio of the 2024-2025 rate to the 2015-2022 rate for each of the eleven speech words.](../figures/fig2_per_word_fold.png)
 
@@ -153,7 +153,7 @@ Twice as many countries rose as fell (Figure 3). The placebo shows the kind of n
 
 ### 5.4 The academic list does not transfer
 
-The thirteen academic words that rose sevenfold in computational linguistics abstracts (Mıhcı, 2026b) show no consistent movement in General Debate statements: 48 countries rose, 47 fell, p = 1.00, although the pooled rate moved from 2.05 to 3.41 per 10,000 words on the strength of a few frequent users. *Pivotal* is the exception inside that list, rising from 2.3 to 7.2 per 100,000 words. AI-associated vocabulary is not one list. Each genre carries its own register, and a word that signals machine style in an abstract says little about a speech.
+The thirteen academic words that rose sevenfold in computational linguistics abstracts (Mıhcı, 2026b) show no consistent movement in General Debate statements: 48 countries rose, 47 fell, p = 1.00, although the pooled rate moved from 2.05 to 3.41 per 10,000 words on the strength of a few frequent users. *Pivotal* is the exception inside that list, rising from 2.3 to 7.4 per 100,000 words. AI-associated vocabulary is not one list. Each genre carries its own register, and a word that signals machine style in an abstract says little about a speech.
 
 ## 6. Discussion
 
