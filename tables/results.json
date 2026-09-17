@@ -1,0 +1,327 @@
+{
+  "n_speeches": 956,
+  "words": 1847359,
+  "years": {
+    "2015": {
+      "speeches": 101,
+      "words": 191972,
+      "speech_rate": 6.67,
+      "ci95": [
+        5.24,
+        8.21
+      ],
+      "control_rate": 187.3,
+      "pct_speeches_any_speech_word": 60.4,
+      "pct_speeches_unwavering": 11.9,
+      "primary_rate": 2.19
+    },
+    "2016": {
+      "speeches": 100,
+      "words": 197133,
+      "speech_rate": 7.2,
+      "ci95": [
+        5.81,
+        8.72
+      ],
+      "control_rate": 179.6,
+      "pct_speeches_any_speech_word": 70.0,
+      "pct_speeches_unwavering": 13.0,
+      "primary_rate": 1.27
+    },
+    "2017": {
+      "speeches": 123,
+      "words": 245120,
+      "speech_rate": 5.06,
+      "ci95": [
+        4.09,
+        6.11
+      ],
+      "control_rate": 200.8,
+      "pct_speeches_any_speech_word": 56.9,
+      "pct_speeches_unwavering": 8.9,
+      "primary_rate": 2.08
+    },
+    "2018": {
+      "speeches": 114,
+      "words": 220768,
+      "speech_rate": 5.84,
+      "ci95": [
+        4.74,
+        7.04
+      ],
+      "control_rate": 204.5,
+      "pct_speeches_any_speech_word": 61.4,
+      "pct_speeches_unwavering": 11.4,
+      "primary_rate": 2.17
+    },
+    "2021": {
+      "speeches": 94,
+      "words": 186165,
+      "speech_rate": 6.98,
+      "ci95": [
+        5.56,
+        8.43
+      ],
+      "control_rate": 156.8,
+      "pct_speeches_any_speech_word": 66.0,
+      "pct_speeches_unwavering": 10.6,
+      "primary_rate": 2.09
+    },
+    "2022": {
+      "speeches": 110,
+      "words": 224477,
+      "speech_rate": 5.21,
+      "ci95": [
+        4.32,
+        6.12
+      ],
+      "control_rate": 163.4,
+      "pct_speeches_any_speech_word": 63.6,
+      "pct_speeches_unwavering": 10.0,
+      "primary_rate": 2.41
+    },
+    "2023": {
+      "speeches": 111,
+      "words": 218389,
+      "speech_rate": 9.8,
+      "ci95": [
+        7.84,
+        12.09
+      ],
+      "control_rate": 181.5,
+      "pct_speeches_any_speech_word": 71.2,
+      "pct_speeches_unwavering": 18.0,
+      "primary_rate": 3.34
+    },
+    "2024": {
+      "speeches": 106,
+      "words": 198757,
+      "speech_rate": 11.72,
+      "ci95": [
+        9.79,
+        13.72
+      ],
+      "control_rate": 196.3,
+      "pct_speeches_any_speech_word": 73.6,
+      "pct_speeches_unwavering": 31.1,
+      "primary_rate": 3.77
+    },
+    "2025": {
+      "speeches": 97,
+      "words": 164578,
+      "speech_rate": 12.76,
+      "ci95": [
+        10.25,
+        15.37
+      ],
+      "control_rate": 196.3,
+      "pct_speeches_any_speech_word": 66.0,
+      "pct_speeches_unwavering": 27.8,
+      "primary_rate": 2.98
+    }
+  },
+  "pre_post": {
+    "speech_pre": 6.08,
+    "speech_post": 12.19,
+    "control_pre": 183.0,
+    "control_post": 196.3,
+    "primary_pre": 2.05,
+    "primary_post": 3.41
+  },
+  "per_word": {
+    "testament": {
+      "pre_per100k": 1.7,
+      "y2022_per100k": 2.2,
+      "post_per100k": 4.4,
+      "fold": 2.53,
+      "topical_excluded": false,
+      "raw_pre": 22,
+      "raw_post": 16
+    },
+    "unwavering": {
+      "pre_per100k": 6.4,
+      "y2022_per100k": 5.8,
+      "post_per100k": 21.2,
+      "fold": 3.31,
+      "topical_excluded": false,
+      "raw_pre": 81,
+      "raw_post": 77
+    },
+    "steadfast": {
+      "pre_per100k": 5.8,
+      "y2022_per100k": 3.6,
+      "post_per100k": 15.7,
+      "fold": 2.68,
+      "topical_excluded": false,
+      "raw_pre": 74,
+      "raw_post": 57
+    },
+    "resonate": {
+      "pre_per100k": 2.4,
+      "y2022_per100k": 1.8,
+      "post_per100k": 4.7,
+      "fold": 1.97,
+      "topical_excluded": false,
+      "raw_pre": 30,
+      "raw_post": 17
+    },
+    "foster": {
+      "pre_per100k": 13.0,
+      "y2022_per100k": 12.0,
+      "post_per100k": 27.5,
+      "fold": 2.11,
+      "topical_excluded": false,
+      "raw_pre": 165,
+      "raw_post": 100
+    },
+    "beacon": {
+      "pre_per100k": 3.5,
+      "y2022_per100k": 1.8,
+      "post_per100k": 6.3,
+      "fold": 1.82,
+      "topical_excluded": false,
+      "raw_pre": 44,
+      "raw_post": 23
+    },
+    "embark": {
+      "pre_per100k": 7.7,
+      "y2022_per100k": 5.3,
+      "post_per100k": 5.0,
+      "fold": 0.65,
+      "topical_excluded": false,
+      "raw_pre": 97,
+      "raw_post": 18
+    },
+    "crossroads": {
+      "pre_per100k": 1.3,
+      "y2022_per100k": 1.8,
+      "post_per100k": 7.2,
+      "fold": 5.33,
+      "topical_excluded": false,
+      "raw_pre": 17,
+      "raw_post": 26
+    },
+    "profound": {
+      "pre_per100k": 9.0,
+      "y2022_per100k": 8.9,
+      "post_per100k": 19.5,
+      "fold": 2.17,
+      "topical_excluded": false,
+      "raw_pre": 114,
+      "raw_post": 71
+    },
+    "robust": {
+      "pre_per100k": 8.9,
+      "y2022_per100k": 8.0,
+      "post_per100k": 10.2,
+      "fold": 1.14,
+      "topical_excluded": false,
+      "raw_pre": 113,
+      "raw_post": 37
+    },
+    "seamless": {
+      "pre_per100k": 1.0,
+      "y2022_per100k": 0.9,
+      "post_per100k": 0.3,
+      "fold": 0.27,
+      "topical_excluded": false,
+      "raw_pre": 13,
+      "raw_post": 1
+    },
+    "bolster": {
+      "pre_per100k": 2.4,
+      "y2022_per100k": 4.0,
+      "post_per100k": 2.8,
+      "fold": 1.12,
+      "topical_excluded": true,
+      "raw_pre": 31,
+      "raw_post": 10
+    },
+    "harness": {
+      "pre_per100k": 3.6,
+      "y2022_per100k": 7.6,
+      "post_per100k": 8.0,
+      "fold": 2.2,
+      "topical_excluded": true,
+      "raw_pre": 46,
+      "raw_post": 29
+    },
+    "landscape": {
+      "pre_per100k": 2.4,
+      "y2022_per100k": 4.9,
+      "post_per100k": 8.0,
+      "fold": 3.37,
+      "topical_excluded": true,
+      "raw_pre": 30,
+      "raw_post": 29
+    },
+    "navigate": {
+      "pre_per100k": 1.8,
+      "y2022_per100k": 2.7,
+      "post_per100k": 3.0,
+      "fold": 1.67,
+      "topical_excluded": true,
+      "raw_pre": 23,
+      "raw_post": 11
+    },
+    "transformative": {
+      "pre_per100k": 14.8,
+      "y2022_per100k": 44.5,
+      "post_per100k": 10.5,
+      "fold": 0.71,
+      "topical_excluded": true,
+      "raw_pre": 187,
+      "raw_post": 38
+    }
+  },
+  "tests": {
+    "speech_words_pre_vs_post": {
+      "countries": 111,
+      "up": 72,
+      "down": 36,
+      "tie": 3,
+      "sign_p": 0.000684,
+      "median_change_per10k": 3.92
+    },
+    "speech_words_placebo_2015_18_vs_2021_22": {
+      "countries": 116,
+      "up": 55,
+      "down": 53,
+      "tie": 8,
+      "sign_p": 0.923,
+      "median_change_per10k": 0.0
+    },
+    "control_words_pre_vs_post": {
+      "countries": 111,
+      "up": 63,
+      "down": 48,
+      "tie": 0,
+      "sign_p": 0.184,
+      "median_change_per10k": 14.34
+    },
+    "primary_academic_list_pre_vs_post": {
+      "countries": 111,
+      "up": 48,
+      "down": 47,
+      "tie": 16,
+      "sign_p": 1.0,
+      "median_change_per10k": 0.0
+    },
+    "speech_words_english_official_only": {
+      "countries": 53,
+      "up": 35,
+      "down": 18,
+      "tie": 0,
+      "sign_p": 0.027,
+      "median_change_per10k": 4.71
+    },
+    "all_16_speech_words_incl_topical": {
+      "countries": 111,
+      "up": 71,
+      "down": 39,
+      "tie": 1,
+      "sign_p": 0.00294,
+      "median_change_per10k": 2.78
+    }
+  }
+}

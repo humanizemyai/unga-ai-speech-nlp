@@ -1,0 +1,17 @@
+# raw inputs are re-downloadable from gadebate.un.org with src/fetch_gadebate.py
+data/extracted/
+data/*.tar.gz
+data/*.zip
+data/README.txt
+data/Speakers_by_session.xlsx
+data/gadebate/html/
+data/gadebate/pdf/
+data/gadebate/txt/
+out/
+paper/paper.rendered.html
+NOTES.md
+src/score_v4.py
+src/v4_format_probe.py
+src/score_live.ts
+.DS_Store
+__pycache__/
