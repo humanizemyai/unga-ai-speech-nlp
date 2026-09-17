@@ -46,4 +46,4 @@ audio, which would contaminate an AI-vocabulary measurement. The delegations' ow
 
 Mıhcı, F. (2026). *Unwavering, Steadfast, Pivotal: AI-Favoured Speech Vocabulary Doubled in UN General Assembly Statements After ChatGPT (2015-2025).* Preprint, ResearchGate. https://doi.org/10.13140/RG.2.2.29604.64645
 
-Read the summary: https://humanizemy.ai/research/un-general-assembly-ai-words-nlp
+Read the summary: https://humanizemy.ai/research/un-general-assembly-ai-speech-nlp
